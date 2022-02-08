@@ -5,7 +5,7 @@ It is wallet of blockchain valid crypto which is Tron(trx). EasyTron gives you s
 
 # website
 It is a website where you visit and check all the work .
-[www.easytron.xyz](www.easytron.xyz)
+[www.easytron.xyz](http:www.easytron.xyz)
 
 ## Installation
 
